@@ -1,0 +1,8 @@
+{
+    "model": "Diffusion",
+    "FID": 6.92,
+    "Perceptual_Similarity": 0.91,
+    "Epoch": 50,
+    "Notes": "Sharp and high-quality leaf texture generated."
+  }
+  

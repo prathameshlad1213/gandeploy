@@ -1,0 +1,8 @@
+{
+    "model": "VAE",
+    "PSNR": 22.34,
+    "SSIM": 0.812,
+    "MSE": 0.0023,
+    "Notes": "Slight blur — typical for reconstructions."
+  }
+  
